@@ -1,1 +1,1 @@
-# WordPress local dev starter
+# WordPress local dev env starter
